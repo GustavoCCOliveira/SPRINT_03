@@ -12,10 +12,10 @@ A Sprint 3 evolui o protótipo desenvolvido anteriormente, adicionando a integra
 
 | Integrante           | RM |
 | -------------------- | -- |
-| Nome do integrante 1 | RM |
-| Nome do integrante 2 | RM |
-| Nome do integrante 3 | RM |
-| Nome do integrante 4 | RM |
+* RM: 561975 Rafael laprega gontijo magalhaes 
+* RM: 572952 Gustavo Torres de Oliveira 
+* RM: 568690 Lucas Furquim Lima 
+- RM: 570246 Diogo Chiaradia Santos
 
 > Substitua os nomes e RMs pelos integrantes da equipe.
 
