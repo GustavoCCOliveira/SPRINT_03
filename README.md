@@ -476,7 +476,7 @@ O projeto não necessita de bibliotecas externas.
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone (https://github.com/GustavoCCOliveira/SPRINT_03.git)
 ```
 
 Entre na pasta:
