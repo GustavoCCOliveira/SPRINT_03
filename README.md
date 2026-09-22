@@ -495,26 +495,6 @@ O programa iniciará a simulação e realizará cinco ciclos de monitoramento.
 
 ---
 
-# Estrutura do Repositório
-
-```text
-ChargeGrid-Intelligence/
-│
-├── main.py
-│
-├── README.md
-│
-├── docs/
-│   ├── arquitetura.png
-│   ├── fluxograma.png
-│   └── prototipo.png
-│
-└── video/
-    └── link-video.txt
-```
-
----
-
 # Demonstração
 
 O vídeo da Sprint 3 apresenta:
