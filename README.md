@@ -513,14 +513,14 @@ O vídeo da Sprint 3 apresenta:
 ### Vídeo
 
 **YouTube — Não listado:**
-`INSIRA_AQUI_O_LINK_DO_VIDEO`
+`https://youtu.be/kM2HizdwlgM`
 
 ---
 
 # Repositório
 
 **GitHub:**
-`INSIRA_AQUI_O_LINK_DO_REPOSITORIO`
+`https://github.com/GustavoCCOliveira/SPRINT_03.git`
 
 ---
 
